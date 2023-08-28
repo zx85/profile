@@ -11,7 +11,7 @@
 </p>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello...+I+am+james,+a+general+purpose+human+from+the+UK.+This+is+a+home+for+my+various+projects,+including+home+automation,+retro+computing,+audio+and+microcontrollers.+I+hope+you+find+something+useful+or+interesting+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello...+I+am+james,+a+general+purpose+human+from+the+UK.+This+is+a+home+for+my+various+projects+including+home+automation+retro+computing,+audio+and+microcontrollers.+I+hope+you+find+something+useful+or+interesting+here!)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
